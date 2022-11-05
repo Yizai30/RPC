@@ -1,0 +1,5 @@
+com/yizai/rpc/client/TransportSelector.class
+com/yizai/rpc/client/RpcClient.class
+com/yizai/rpc/client/RemoteInvoker.class
+com/yizai/rpc/client/RandomTransportSelector.class
+com/yizai/rpc/client/RpcClientConfig.class

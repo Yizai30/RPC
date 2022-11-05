@@ -1,0 +1,4 @@
+com/yizai/rpc/codec/JsonEncoderTest.class
+com/yizai/rpc/codec/JsonDecoderTest.class
+com/yizai/AppTest.class
+com/yizai/rpc/codec/TestBean.class
